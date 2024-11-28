@@ -1,0 +1,72 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "MMlevel1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Alle Dateien (*)",
+    "fileStates": {
+        "MMProps.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "MMbackground.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "MMlevel1.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 1241.3333333333335,
+                "y": 520
+            }
+        },
+        "MMlevel1.tmx#MMbackground": {
+            "scaleInDock": 1
+        },
+        "MMmidground.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "MMtestmap.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 959,
+                "y": 399
+            }
+        },
+        "MMtiles.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "props.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.externalTilesetPath": "ressources/PNG/environment",
+    "last.imagePath": "ressources/PNG/environment",
+    "map.height": 25,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 60,
+    "openFiles": [
+        "MMtestmap.tmx",
+        "MMlevel1.tmx"
+    ],
+    "project": "MermaidMurdererTest.tiled-project",
+    "recentFiles": [
+        "MMtestmap.tmx",
+        "MMlevel1.tmx",
+        "MMbackground.tsx",
+        "MMmidground.tsx",
+        "MMtiles.tsx",
+        "MMProps.tsx"
+    ],
+    "tileset.lastUsedFilter": "Alle Dateien (*)",
+    "tileset.lastUsedFormat": "tsx"
+}
